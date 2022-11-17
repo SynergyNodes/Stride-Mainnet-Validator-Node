@@ -96,7 +96,7 @@ rm app.toml
 rm config.toml
 cd
 
-wget https://raw.githubusercontent.com/ArableProtocol/acrechain/testnet_bamboo/networks/bamboo/genesis.json -O $HOME/.acred/config/genesis.json
+
 ```
 
 ## Update configuration with seeds, peers list
