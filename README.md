@@ -97,7 +97,7 @@ rm config.toml
 
 wget https://raw.githubusercontent.com/SynergyNodes/Stride-Mainnet-Validator-Node/main/app.toml
 wget https://raw.githubusercontent.com/SynergyNodes/Stride-Mainnet-Validator-Node/main/config.toml
-wget https://raw.githubusercontent.com/SynergyNodes/Stride-Mainnet-Validator-Node/main/genesis.json
+wget https://raw.githubusercontent.com/Stride-Labs/stride/main/genesis/genesis.json
 
 cd
 
