@@ -88,7 +88,7 @@ strided init <moniker-name> --chain-id stride-1
 strided init Synergy_Nodes --chain-id stride-1
 ```
 
-## Download genesis.json, app.toml, config.toml files
+## Download genesis.json file.
 ```
 cd ~/.stride/config
 rm genesis.json
