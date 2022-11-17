@@ -1,6 +1,8 @@
 
 # Stride Mainnet stride-1 Validator Node Setup
 
+[![Stride Mainnet stride-1 Validator Node Setup](https://www.synergynodes.com/youtube/Synergy-Nodes-Stride-Validator-Node-Youtube.jpg)](https://youtu.be/JbfkHVWr5BQ)
+
 ## Install Ubuntu 20.04 on a new server and login as root
 
 ## Install ``ufw`` firewall and configure the firewall
