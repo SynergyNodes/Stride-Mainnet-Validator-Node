@@ -1,5 +1,5 @@
 
-# Stride Mainet stride-1 Validator Node Setup
+# Stride Mainnet stride-1 Validator Node Setup
 
 ## Install Ubuntu 20.04 on a new server and login as root
 
@@ -94,6 +94,11 @@ cd ~/.stride/config
 rm genesis.json
 rm app.toml
 rm config.toml
+
+wget https://raw.githubusercontent.com/SynergyNodes/Stride-Mainnet-Validator-Node/main/app.toml
+wget https://raw.githubusercontent.com/SynergyNodes/Stride-Mainnet-Validator-Node/main/config.toml
+wget https://raw.githubusercontent.com/SynergyNodes/Stride-Mainnet-Validator-Node/main/genesis.json
+
 cd
 
 
