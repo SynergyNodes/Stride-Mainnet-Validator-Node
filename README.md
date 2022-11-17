@@ -114,16 +114,15 @@ sed -i -e 's|^seeds *=.*|seeds = "'$seeds'"|; s|^persistent_peers *=.*|persisten
 ```
 
 ## Download snapshot and decompress the files.
-```
+
 Download the snapshot and follow the steps present in the following link:
 
 https://www.synergynodes.com/download-info.html?network=stride
-```
 
 
 ## Start the node and let it Sync
 ```
-stride start
+strided start
 
 # Press Ctrl+c to exit
 
