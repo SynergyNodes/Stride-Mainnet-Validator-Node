@@ -92,11 +92,7 @@ strided init Synergy_Nodes --chain-id stride-1
 ```
 cd ~/.stride/config
 rm genesis.json
-rm app.toml
-rm config.toml
 
-wget https://raw.githubusercontent.com/SynergyNodes/Stride-Mainnet-Validator-Node/main/app.toml
-wget https://raw.githubusercontent.com/SynergyNodes/Stride-Mainnet-Validator-Node/main/config.toml
 wget https://raw.githubusercontent.com/Stride-Labs/stride/main/genesis/genesis.json
 
 cd
